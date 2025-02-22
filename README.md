@@ -12,6 +12,8 @@
 
 [Курс по статистике от ААА](https://avito.tech/education/statistics)
 
+[MLDS_math_2022](https://github.com/Murcha1990/MLDS_math_2022)
+
 
 ## Additional:
 
